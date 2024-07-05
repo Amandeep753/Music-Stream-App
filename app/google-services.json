@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249186262112",
+    "project_id": "music-stream-bfdba",
+    "storage_bucket": "music-stream-bfdba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249186262112:android:3ecc4d7abe2faf696e7705",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.musicstream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Siswoh8QLUIqWcETIWev4HBKrwUAb4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
